@@ -39,8 +39,10 @@ It simulates real user interactions on a web form including input fields, dropdo
 ## 📂 Project Structure
 
 selenium-automation-form/
+
 │
 ├──registration_automation.py
+
 └── README.md
 
 ---
