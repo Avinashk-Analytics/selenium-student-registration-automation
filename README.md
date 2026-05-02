@@ -44,9 +44,3 @@ selenium-automation-form/
 ├──registration_automation.py
 
 └── README.md
-
----
-
-## ▶️ How to Run
-pip install selenium
-python test_student_registration.py
