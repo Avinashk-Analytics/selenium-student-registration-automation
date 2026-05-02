@@ -40,8 +40,7 @@ It simulates real user interactions on a web form including input fields, dropdo
 
 selenium-automation-form/
 │
-├── test_student_registration.py
-├── group_1.png
+├──registration_automation.py
 └── README.md
 
 ---
